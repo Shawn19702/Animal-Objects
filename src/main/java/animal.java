@@ -5,7 +5,6 @@ public String type;
 
 
 
-    // Student class constructor
 
     animal(String type, String food) {
         this.type = type;
